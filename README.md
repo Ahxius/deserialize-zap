@@ -25,16 +25,13 @@ However, the main limitation of this technique is the requirement for access to 
 
 ## Further Reading
 
-1. **OWASP Insecure Deserialization Cheat Sheet**  
-   [Link](https://cheatsheetseries.owasp.org/cheatsheets/Deserialization_Cheat_Sheet.html)  
+1. [OWASP Insecure Deserialization Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Deserialization_Cheat_Sheet.html)  
    A detailed guide to understanding and mitigating insecure deserialization vulnerabilities.
 
-2. **CWE-502: Deserialization of Untrusted Data**  
-   [Link](https://cwe.mitre.org/data/definitions/502.html)  
+2. [CWE-502: Deserialization of Untrusted Data](https://cwe.mitre.org/data/definitions/502.html)  
    A resource from MITRE providing an in-depth look at the technical implications and examples of insecure deserialization.
 
-3. **PortSwigger's Guide to Insecure Deserialization**  
-   [Link](https://portswigger.net/web-security/deserialization)  
+3. [PortSwigger's Guide to Insecure Deserialization](https://portswigger.net/web-security/deserialization)  
    A comprehensive breakdown of insecure deserialization, including exploitation examples.
 
 4. [OWASP Top Ten List](https://owasp.org/www-project-top-ten/)  
